@@ -1,0 +1,2 @@
+# Amara
+ My personal project
